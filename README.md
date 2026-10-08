@@ -47,8 +47,6 @@ ATENÇÃO: o uso em computadores é recomendado.
 
 Para uma melhor experiência e visualização de todos os elementos da página, recomenda-se utilizar o projeto em um computador através do Google Chrome.
 
-Se você não tiver a fonte *"Bradley Hand ITC"* instalada em seu computador, é recomendada a instalação da fonte.
-
 ---------------------------------------------------------------------------------------------------------------
 
 🛠️ Tecnologias utilizadas
